@@ -26,8 +26,8 @@
 
 .navbar-brand .logo {
   height: 35px;
-  width: 76px;
-  background: url('../../assets/img/lisk-logo.svg');
+  width: 35px;
+  background: url('../../assets/img/logo.png');
   background-size: auto 35px;
   vertical-align: middle ;
   display: inline-block ;
